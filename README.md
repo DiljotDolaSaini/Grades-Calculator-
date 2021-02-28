@@ -1,7 +1,1 @@
-# compeng2sh4-lab-3-starter
-
-Section: [L02]
-
-MacID: [dolasaid]
-
-StudentID: [400252842]
+This was one of the labs I worked on in my second year course for principles of programming. It calculates the averages of students given student first and last names, student ID, and grades from text files. 
